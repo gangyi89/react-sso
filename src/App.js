@@ -21,8 +21,8 @@ Amplify.configure({
 
       oauth: {
         domain: "klatchdev.auth.ap-southeast-1.amazoncognito.com",
-        redirectSignIn: "http://localhost:3000/",
-        redirectSignOut: "http://localhost:3000/",
+        redirectSignIn: "https://jovial-knuth-6f0233.netlify.app/",
+        redirectSignOut: "https://jovial-knuth-6f0233.netlify.app/",
         responseType: "code"
       }
   },
