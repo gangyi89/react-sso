@@ -17,7 +17,7 @@ Amplify.configure({
 
       userPoolId: 'ap-southeast-1_P1P5mTUBd',
 
-      userPoolWebClientId: '7i3cj113pinapc4jj4hjhkbch3',
+      userPoolWebClientId: '644qnv7lurvupcvdlfbv32mij3',
 
       oauth: {
         domain: "klatchdev.auth.ap-southeast-1.amazoncognito.com",
